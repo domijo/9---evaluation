@@ -140,6 +140,7 @@ section{
     text-align: center;
 }
 button{
+    background-color: blue;
     position: absolute;
     position: absolute;
     bottom: -31px;
